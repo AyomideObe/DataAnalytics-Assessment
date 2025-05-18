@@ -1,9 +1,6 @@
 
 # Data Analytics SQL Assessment
 
-## Overview
-This repository contains solutions to four SQL-based analytical tasks. Each query is designed to extract insights from savings and investment data, aligned with realistic business needs like cross-sell targeting, churn alerts, and customer value estimation.
-
 ---
 
 ## Per-Question Explanations
